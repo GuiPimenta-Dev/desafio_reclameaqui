@@ -1,6 +1,6 @@
 from httpx import get
 
-url_base = 'http://localhost:5000/'
+url_base = 'https://reclameaquichallenge.herokuapp.com/'
 endpoint = 'countcomplains'
 url = url_base + endpoint
 

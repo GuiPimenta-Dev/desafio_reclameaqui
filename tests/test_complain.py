@@ -2,7 +2,7 @@ from httpx import post
 import random
 import string
 
-url_base = 'http://localhost:5000/'
+url_base = 'https://reclameaquichallenge.herokuapp.com/'
 endpoint = 'complain'
 url = url_base + endpoint
 
