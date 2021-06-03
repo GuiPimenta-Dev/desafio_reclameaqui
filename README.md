@@ -2,7 +2,7 @@
 
 The challenge is presented below:
 
-<img src = "utils/hard-skills-assignment-shape.PNG">
+<img src = "utils/back_end challenge.PNG">
 
 <br/>
 
