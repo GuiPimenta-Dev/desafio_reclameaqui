@@ -1,4 +1,4 @@
 # True - RUNS ON HEROKU
 # False - RUNS LOCALLY
-HEROKU = True
+HEROKU = False
 
