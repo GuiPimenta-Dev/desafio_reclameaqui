@@ -25,7 +25,7 @@ Test the available endpoints in: https://reclameaquichallenge.herokuapp.com/docs
 
 <br/>
 
-The Db has 1000 lines of Mocked Data
+The DataBase has 1000 lines of Mocked Data
 
 ### Setup locally
 ```bash
