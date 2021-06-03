@@ -19,16 +19,10 @@ The API has the following endpoints:
 
 Test the available endpoints in: https://reclameaquichallenge.herokuapp.com/docs.html
 
-<img src="utils/expand_operations.PNG">
+<img src="utils/test_endpoints.PNG">
 
 <br/>
 
-<img src="utils/api_documentation.PNG">
-
-<br/>
-
-<img src="utils/created_vessel_endpoint.PNG">
-<br/>
 <br/>
 
 
