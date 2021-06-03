@@ -13,7 +13,7 @@ The API is written in Python/Flask and hosted on Heroku.
 
 The API has the following endpoints:
 
-<img src ="utils/available_endpoints.PNG">
+<img src ="utils/endpoints.PNG">
 
 <br/>
 
